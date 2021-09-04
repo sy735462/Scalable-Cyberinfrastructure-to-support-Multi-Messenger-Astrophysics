@@ -1,4 +1,4 @@
-# Demos-for-Scalable-Cyberinfrastructure-to-support-Multi-Messenger-Astrophysics
+# Demos for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics
 ## What is SCiMMA? 
 ## What are the purpose of these Demo? 
 ## Demo 1
