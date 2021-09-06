@@ -30,5 +30,5 @@
 </p> 
 
 <h1> Use case scenerios of SCiMMA </h1> 
-<img src="
+<img src="V2 BNSM USE CASE SCENERIO - SCIMMA.jpg">
 
