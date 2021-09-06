@@ -30,5 +30,5 @@
 </p> 
 
 <h1> Use case scenerios of SCiMMA </h1> 
-![V2 BNSM USE CASE SCENERIO - SCIMMA](https://user-images.githubusercontent.com/83461107/132254541-66870c2a-db27-4da2-928c-8851100bad1b.jpg)
+<img src="
 
