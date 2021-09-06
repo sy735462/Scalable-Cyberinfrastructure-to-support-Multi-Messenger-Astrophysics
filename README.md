@@ -7,7 +7,7 @@
   </ul>
 </p> 
 
-<h2> What is Hopskotch? </h2> 
+<h1> What is Hopskotch? </h1> 
 <p> 
   Hopskotch is an event streaming hub for multi-messenger astrophysics. 
   <ul>
@@ -15,7 +15,7 @@
   </ul>
 </p> 
 
-<h3> What are the purpose of these Demo? </h3> 
+<h1> What are the purpose of these Demo? </h1> 
 <p> 
   The purpose of this demo is ... 
    <ul>
@@ -25,6 +25,6 @@
   </ul>
 </p> 
 
-<h4> Use case scenerios of SCiMMA </h4> 
-![V2 BNSM USE CASE SCENERIO - SCIMMA](https://user-images.githubusercontent.com/83461107/132231351-37c44633-1a2f-4429-86bf-104f8e6a66b5.jpg)
+<h1> Use case scenerios of SCiMMA </h1> 
+![V2 BNSM USE CASE SCENERIO - SCIMMA](https://user-images.githubusercontent.com/83461107/132254541-66870c2a-db27-4da2-928c-8851100bad1b.jpg)
 
