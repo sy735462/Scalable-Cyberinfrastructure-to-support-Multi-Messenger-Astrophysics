@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <head> 
 <title> Demos for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics </title> 
 </head> 
