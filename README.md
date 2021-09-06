@@ -7,7 +7,7 @@
 <p> 
   SCiMMA, which stands for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics, is an organization that seek to build a better cyber-infrastructure that better taylors to and supports the new and blooming field of multi-messenger astrophysics. The all-in-one data and alert publishing and subscribing platform is powered by Hopskotch. 
   <ul>
-        <li> More information at <a href="https://scimma.org/index.html"> scimma.org </a></li>
+        <li> More information at <a href="https://scimma.org/index.html"> Scimma.org </a></li>
   </ul>
 </p> 
 
