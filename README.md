@@ -19,7 +19,7 @@
   </ul>
 </p> 
 
-<h1> What are the purpose of these Demo? </h1> 
+<h1> Demos </h1> 
 <p> 
   The purpose of this demo is ... 
    <ul>
