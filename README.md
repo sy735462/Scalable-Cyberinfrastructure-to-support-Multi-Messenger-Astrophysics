@@ -24,9 +24,9 @@ Demos for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics
 <p style="font-family:opensans;"> 
   The purpose of this demo is ... 
    <ul>
-       <li style="font-family:opensans;"> Demo 1</li>
-       <li style="font-family:opensans;"> Demo 2</li>
-       <li style="font-family:opensans;"> Demo 3</li>
+       <li style="font-family:opensans;"> Demo 1: _________ </li>
+       <li style="font-family:opensans;"> Demo 2: _________ </li>
+       <li style="font-family:opensans;"> Demo 3: _________ </li>
   </ul>
 </p> 
 
