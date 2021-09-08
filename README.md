@@ -1,8 +1,8 @@
 <body style="background-color:powderblue;">
 
-<title style="font-family:opensans;"> 
+<head style="font-family:opensans;"> 
 Demos for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics
-</title> 
+</head> 
 
 <h1 style="font-family:opensans;"> What is SCiMMA? </h1> 
 <p style="font-family:opensans;"> 
