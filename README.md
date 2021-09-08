@@ -1,4 +1,4 @@
-<body style="background-color:MintCream;">
+<body style="background-color:AliceBlue;">
 
 <head style="font-family:opensans;"> 
 Demos for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics
