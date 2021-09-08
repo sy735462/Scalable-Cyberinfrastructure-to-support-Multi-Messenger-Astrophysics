@@ -6,7 +6,7 @@ Demos for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics
 
 <h1 style="font-family:opensans;"> What is SCiMMA? </h1> 
 <p style="font-family:opensans;"> 
-  SCiMMA, which stands for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics, is an organization that seek to build a better cyber-infrastructure that better taylors to and supports the new and blooming field of multi-messenger astrophysics. The all-in-one data and alert publishing and subscribing platform is powered by Hopskotch. 
+  SCiMMA, which stands for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics, is an organization that seek to build a cyber-infrastructure that better taylors to and supports the new and blooming field of multi-messenger astrophysics. The all-in-one data and alert publishing and subscribing platform is partially powered by Hopskotch. 
   <ul>
         <li style="font-family:opensans;"> More information at <a href="https://scimma.org/index.html"> Scimma.org </a></li>
   </ul>
@@ -14,7 +14,7 @@ Demos for Scalable Cyberinfrastructure to support Multi-Messenger Astrophysics
 
 <h1 style="font-family:opensans;"> What is Hopskotch? </h1> 
 <p style="font-family:opensans;"> 
-  Hopskotch is an event streaming hub for multi-messenger astrophysics. 
+  Hopskotch is an real-time event streaming hub for detections in multi-messenger astrophysics. 
   <ul>
        <li style="font-family:opensans;"> More information at <a href="https://hop.scimma.org/"> Hop.scimma.org </a></li>
   </ul>
